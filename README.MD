@@ -55,34 +55,52 @@ Hasil menampilkan halaman dashboard pada website
 
 ### Create Car Page
 
-Tampilan membuat data baru pada halaman http://localhost:your-port/create
+Tampilan halaman membuat data baru pada url : http://localhost:your-port/create
 
 ![Create Car Page](/public/assets/create_page.png)
 
 ### Create Car Notification
 
+Tampilan Notifikasi hasil membuat data baru.
+
 ![Create Car Notification](/public/assets/create_notif.png)
 
 ### Update Car Page
+
+Tampilan halaman mengedit data baru pada url : http://localhost:your-port/edit/id
 
 ![Update Car Page](/public/assets/update_page.png)
 
 ### Update Car Notification
 
+Tampilan notifikasi hasil mengedit data cars.
+
 ![Update Car Notification](/public/assets/update_notif.png)
 
 ### Delete Car Modal
 
+Tampilan notifikasi pertanyaan apakah data akan dihapus atau tidak.
+
 ![Delete Car Modal](/public/assets/delete_cars.png)
 
+### Delete Car Notification
+
+Tampilan notifikasi hasil menghapus data cars.
+
+![Delete Car Modal](/public/assets/delete_notif.png)
+
 ### Search Filter
+
+Tampilan halaman ketika mencari data cars pada menu search.
 
 ![search filter](/public/assets/search_cars.png)
 
 ### list Filter
 
+Tampilan halaman ketika memfilter data cars sesuai ukuran pada halaman cars page.
+
 ![search filter](/public/assets/filter_cars.png)
 
 ### ERD
 
-![ERD](/public/assets/ERD.png)
+![ERD](/public/assets/erd_image.png)
